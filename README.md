@@ -1,4 +1,4 @@
-# Classification-of-Cyberbullying-on-Tweeter
+# Classification-of-Cyberbullying-on-Twitter
 **Due to the large code size file first download it and then run it in collab or jupyter notebook. 
 If you want to see runned code please download the attached PDF 'code_runned.pdf'. **
 The project focused on developing ensemble models for NLP classification problem.  
